@@ -1,8 +1,7 @@
-pytorch
-torchvision
-numpy
-tqdm
-numba
-matplotlib
-opencv-python
-detectron2
+pytorch==2.0.0+cu118
+torchvision==0.15.1+cu118
+numpy==1.23.5
+tqdm==4.65.0
+numba==0.56.4
+matplotlib==3.7.1
+opencv-python==4.7.0.72
