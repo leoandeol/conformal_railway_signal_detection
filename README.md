@@ -1,6 +1,8 @@
 # Confident Object Detection via Conformal Prediction and Conformal Risk Control: an Application to Railway Signaling
 Link to the preprint on [ArXiv](https://arxiv.org/abs/2304.06052), submitted to COPA 2023.
 
+![Conformalized Detection](figure.png)
+
 The code to reproduce experiments is in the notebook, and is based on a small purpose-built library for conformal object detection.
 
 The dataset used in our experiments will be published soon separately, and other datasets can be tested easily using our code. The dataset is however not required as all necessary data is provided in the pickle on the google drive.
