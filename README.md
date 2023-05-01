@@ -17,3 +17,4 @@ We run the experiments under Ubuntu 22.04 with the Yolov5 pretrained network, as
 * Lower memory usage of DETR
 * Pack DiffusionDet in a self-contained way 
 * Add more pretrained models, and finetuned models
+* Plot best and worst images
