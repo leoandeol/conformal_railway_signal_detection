@@ -22,3 +22,4 @@ Follow instructions on [this page](https://github.com/ShoufaChen/DiffusionDet), 
 ## Future work
 * Lower memory usage of DETR
 * Pack DiffusionDet in a self-contained way 
+* Include finetuned models and more pretrained models
