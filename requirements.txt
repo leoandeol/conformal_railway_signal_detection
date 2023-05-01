@@ -1,0 +1,8 @@
+pytorch
+torchvision
+numpy
+tqdm
+numba
+matplotlib
+opencv-python
+detectron2
