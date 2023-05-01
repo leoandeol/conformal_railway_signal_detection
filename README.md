@@ -18,6 +18,7 @@ YOLOv5 can easily be replaced by DETR, which however requires more GPU memory an
 ### DiffusionDet
 Follow instructions on [this page](https://github.com/ShoufaChen/DiffusionDet), and download [these weights](https://github.com/ShoufaChen/DiffusionDet/releases/download/v0.1/diffdet_coco_res50_300boxes.pth) and place them in the "models" folder.
 
-## Future work
+
+## Future work
 * Lower memory usage of DETR
 * Pack DiffusionDet in a self-contained way 
