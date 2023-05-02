@@ -1,5 +1,5 @@
 # Confident Object Detection via Conformal Prediction and Conformal Risk Control: an Application to Railway Signaling
-## Léo Andéol, Thomas Fel, Florence de Grancey, Luca Mossina (Pending Review)
+### Léo Andéol, Thomas Fel, Florence de Grancey, Luca Mossina (Pending Review)
 Link to the preprint on [ArXiv](https://arxiv.org/abs/2304.06052), submitted to COPA 2023.
 
 ![Conformalized Detection](figure.png)
