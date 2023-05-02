@@ -21,3 +21,7 @@ We run the experiments under Ubuntu 22.04 with the Yolov5 pretrained network, as
 * Pack DiffusionDet in a self-contained way 
 * Add more pretrained models, and finetuned models
 * Plot best and worst images
+
+## Acknowledgements
+* We thank the authors of DiffusionDet for publishing [their code](https://github.com/ShoufaChen/DiffusionDet), under the CC-BY-NC 4.0 license. We reused most of their code without modification in order to include the DiffusionDet model in our codebase.
+* We thank ANITI and the project DEEL for the funding of our project
