@@ -25,3 +25,4 @@ We run the experiments under Ubuntu 22.04 with the Yolov5 pretrained network, as
 ## Acknowledgements
 * We thank the authors of DiffusionDet for publishing [their code](https://github.com/ShoufaChen/DiffusionDet), under the CC-BY-NC 4.0 license. We reused most of their code without modification in order to include the DiffusionDet model in our codebase.
 * We thank ANITI and the project DEEL for the funding of our project
+* We thank the Youtube channel [Railtrotter](https://www.youtube.com/@Railtrotter) for allowing use their videos to construct our dataset for research purposes.
